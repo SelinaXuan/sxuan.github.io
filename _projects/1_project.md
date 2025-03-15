@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: GIDEA
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -16,8 +16,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: GIDEA
+    description: 
     img: /assets/img/12.jpg
     ---
 
